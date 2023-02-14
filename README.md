@@ -1,4 +1,4 @@
-# **Empresa Buho** 
+# **Digital Buho** 
 ## **proyecto_1**: Formulario
 [Ver demo ->](https://github.com/jefersc/project1_buho.git)
 
